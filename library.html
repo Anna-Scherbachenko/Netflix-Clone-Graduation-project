@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Україна: дивіться телесеріали й фільми онлайн</title>
+    <link rel="shortcut icon" href="./img/netflix-icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader" class="preloader">
+        <div class="loadingio-spinner-eclipse-f8cr1rw059k">
+            <div class="ldio-8xlaoorm4x3">
+                <div></div>
+            </div>
+        </div>
+    </div>
+    
+    <header>
+        <div class="container">
+            <div class="header-wrapper">
+                <div>
+                    <a href="/"><img class="header-logo" src="./img/logo.png" alt="Netflix"></a>
+                </div>
+                <div class="header-box">
+                    <h1 class="header-box__title">Тільки на Netflix</h1>
+                    <p class="header-box__intro">Netflix подарує вам приголомшливі шоу, які ви більше ніде не знайдете.
+                        Фільми, серіали, спеціальні
+                        випуски і багато іншого - все підібрано відповідно до ваших інтересів.</p>
+                </div>
+                <div class="header-search">
+                    <h5 class="header-search__text">
+                        Введіть назву, щоб почати перегляд
+                    </h5>
+                    <div class="header-search__inner">
+                        <input class="header-search__input" id="search-input" minlength="10" maxlength="50" name="name"
+                            type="search" placeholder="Назва">
+                        <p class="header-search__warning visually-hidden"><i class="fa-regular fa-circle-xmark warning"
+                                style="color: #e50914;"></i>За Вашим запитом нічого не знайдено!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="backdrop visually-hidden" data-modal></div>
+        <div class="container movies-wrap">
+            <ul class="list"></ul>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p class="footer-question">Запитання? Телефонуйте за номером <a class="footer-list__link"
+                    href="tel:18665797172">1-866-579-7172</a></p>
+            <div class="footer-cols">
+                <ul class="footer-list">
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Поширені запитання</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Медіацентр</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Способи перегляду</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Налаштування файлів cookie</a>
+                    </li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Перевірка швидкості</a></li>
+                </ul>
+                <ul class="footer-list">
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Довідковий центр</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Зв'язки з інвесторами</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Умови використання</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Корпоративна інформація</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Юридичні повідомлення</a></li>
+                </ul>
+                <ul class="footer-list">
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Обліковий запис</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Вакансії</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Конфіденційність</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Зв'язатися з нами</a></li>
+                    <li class="footer-list__item"><a class="footer-list__link" href="#">Тільки на Netflix</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script src="./js/main-script.js" type="module"></script>
+</body>
+
+</html>

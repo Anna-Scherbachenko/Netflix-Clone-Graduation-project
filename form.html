@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+    <link rel="shortcut icon" href="./img/netflix-icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    
+    <div class="bg-wrapper">
+        <div class="form-header header">
+            <div class="form-header__top header-top">
+                <a href="/"><img class="header-top__logo" src="./img/logo.png" alt="Netflix"></a>
+            </div>
+            <div class="form-header__body">
+                <div class="form-header__wrapper">
+                    <h2 class="form-header__title">Увійти</h2>
+                    <form class="form-header__box" method="post">
+        
+                        <div class="form-email">
+                            <input class="form-email__input" type="email" name="email" id="email"
+                                placeholder="Адреса електронної пошти" required>
+                            <p class="form-email__warning">Введіть дійсну адресу електронної пошти.</p>
+                        </div>
+        
+                        <div class="form-password">
+                            <input class="form-password__input" type="password" name="password" id="password" minlength="4"
+                                maxlength="60" placeholder="Пароль" required>
+                            <p class="form-password__warning">Пароль має містити від 4 до 60 символів.</p>
+                        </div>
+        
+                        <button class="form-header__btn btn" type="submit" value="signIn">Увійти</button>
+        
+                        <div class="form-checkbox">
+                            <input class="form-checkbox__input" type="checkbox" name="checkbox" id="checkbox" checked>
+                            <label class="form-checkbox__label" for="checkbox">Запам'ятати мене?</label>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-form">
+            <div class="container">
+                <p class="footer-question">Запитання? Залефонуйте за номером <a class="footer-form__link"
+                        href="tel:0800509416">0800-509-416</a></p>
+                <div class="footer-form__cols">
+                    <ul class="footer-form__list">
+                        <li class="footer-form__item"><a class="footer-form__link" href="#">Поширені запитання</a></li>
+                        <li class="footer-form__item"><a class="footer-form__link" href="#">Налаштування файлів cookie</a></li>
+                    </ul>
+                    <ul class="footer-form__list">
+                        <li class="footer-form__item"><a class="footer-form__link" href="#">Довідковий центр</a></li>
+                        <li class="footer-form__item"><a class="footer-form__link" href="#">Корпоративна інформація</a></li>
+                    </ul>
+                    <ul class="footer-form__list">
+                        <li class="footer-form__item"><a class="footer-form__link" href="#">Умови використання</a></li>
+                    </ul>
+                    <ul class="footer-form__list">
+                        <li class="footer-form__item"><a class="footer-form__link" href="#">Конфіденційність</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
