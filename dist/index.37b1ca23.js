@@ -561,7 +561,6 @@ function hmrAccept(bundle, id) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _lodashDebounce = require("lodash.debounce");
 var _lodashDebounceDefault = parcelHelpers.interopDefault(_lodashDebounce);
-var _accordeon = require("./accordeon");
 var _apiService = require("./api-service");
 var _apiServiceDefault = parcelHelpers.interopDefault(_apiService);
 var _moviesAll = require("./movies-all");
@@ -644,7 +643,7 @@ Promise.all([
 moviesList.addEventListener("click", onMovieClick);
 searchInput.addEventListener("input", (0, _lodashDebounceDefault.default)(onSearchInput, 1200));
 
-},{"lodash.debounce":"3JP5n","./accordeon":"jZpsQ","./api-service":"5qxVl","./movies-all":"8JtWG","./movie-single":"dbCqM","./modal":"guy4I","./loading":"eUcYU","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"3JP5n":[function(require,module,exports) {
+},{"lodash.debounce":"3JP5n","./api-service":"5qxVl","./movies-all":"8JtWG","./movie-single":"dbCqM","./modal":"guy4I","./loading":"eUcYU","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"3JP5n":[function(require,module,exports) {
 /**
  * lodash (Custom Build) <https://lodash.com/>
  * Build: `lodash modularize exports="npm" -o ./`
@@ -928,27 +927,6 @@ var FUNC_ERROR_TEXT = "Expected a function";
     return isBinary || reIsOctal.test(value) ? freeParseInt(value.slice(2), isBinary ? 2 : 8) : reIsBadHex.test(value) ? NAN : +value;
 }
 module.exports = debounce;
-
-},{}],"jZpsQ":[function(require,module,exports) {
-const tabs = document.querySelectorAll(".questions-list__btn");
-const contents = document.querySelectorAll(".questions-list__content");
-tabs.forEach((item)=>item.addEventListener("click", ()=>{
-        const activeContent = document.querySelector("#" + item.dataset.tab);
-        if (activeContent.classList.contains("active")) {
-            activeContent.classList.remove("active");
-            item.classList.remove("active");
-            activeContent.style.maxHeight = 0;
-        } else {
-            contents.forEach((element)=>{
-                element.classList.remove("active");
-                element.style.maxHeight = 0;
-            });
-            tabs.forEach((element)=>element.classList.remove("active"));
-            item.classList.add("active");
-            activeContent.classList.add("active");
-            activeContent.style.maxHeight = activeContent.scrollHeight + "rem";
-        }
-    }));
 
 },{}],"5qxVl":[function(require,module,exports) {
 // -  export

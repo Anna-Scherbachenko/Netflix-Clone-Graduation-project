@@ -1,13 +1,11 @@
 // - imports
 import debounce from 'lodash.debounce';
 
-
-import './accordeon';
 import ApiService from './api-service';
 import { moviesAll } from './movies-all';
 import { movieSingle } from './movie-single';
 import openModalWindow from './modal';
-// import './loading';
+import './loading';
 
 
 //refs 

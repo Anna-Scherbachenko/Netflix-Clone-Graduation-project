@@ -1,5 +1,5 @@
-4305
-88C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js133300964567294200 1
+4304
+88C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js133301742098378937 1
 146C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc133300966193851936 0
 118C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\terser\lib\scope.js133300966204310056 0
 129C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\watcher\src\Watcher.cc133300966193469276 0
@@ -48,7 +48,7 @@
 139C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\diagnostic\test\markdown.test.js133300966188826718 0
 109C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\source-map133300966194876885 1
 132C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\entities\lib\encode-trie.d.ts.map133300966195334123 0
-90C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist133300966712049846 1
+90C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist133301742316150050 1
 128C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\entities\lib\maps\legacy.json133300966193149171 0
 122C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\htmlnano\lib\helpers.js133300966192893832 0
 116C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\svgo\lib\style.js133300966205908213 0
@@ -56,17 +56,17 @@
 111C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\caniuse-lite133300966232534455 1
 119C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\core\LICENSE133300966194421077 0
 120C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\picomatch\lib\scan.js133300966190616064 0
-95C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\form.html133300964555455706 0
+95C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\form.html133301720566696199 0
 113C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\terser\main.js133300966201611699 0
 135C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\caniuse-lite\data\features\webusb.js133300966232002523 0
 107C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\boolbase133300966186458125 1
 128C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\svgo\plugins\convertColors.js133300966195334123 0
-96C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\index.html133300964556308861 0
+96C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\index.html133301741975457937 0
 119C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\nullthrows\README.md133300966189799001 0
 121C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\term-size\package.json133300966191415981 0
 98C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules133300966240380581 1
 124C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\chalk\source\templates.js133300966186903071 0
-98C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\library.html133300964556948226 0
+98C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\library.html133301741370550260 0
 140C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\electron-to-chromium\chromium-versions.js133300966185627270 0
 116C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@msgpackr-extract133300966238758729 1
 136C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@swc\helpers\src\_to_property_key.mjs133300966213046665 0
@@ -3794,7 +3794,7 @@
 137C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\runtime-js\src\helpers\browser133300966200786162 1
 148C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js133300966188826718 0
 147C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133300966194705629 0
-103C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\library.html133300966711089421 0
+103C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\library.html133301742315408301 0
 149C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133300966195932429 0
 147C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133300966197571220 0
 151C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133300966193469276 0
@@ -4277,10 +4277,9 @@
 112C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\.bin\svgo.cmd133300966233101405 0
 110C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\.bin\terser133300966233101405 0
 114C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\node_modules\.bin\terser.cmd133300966233101405 0
-101C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js\accordeon.js133300964564305464 0
 103C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js\api-service.js133300964564842376 0
 99C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js\loading.js133300964565480155 0
-103C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js\main-script.js133300964566015812 0
+103C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js\main-script.js133301741526770707 0
 97C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\js\modal.js133300964566653352 0
 95C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\img\1.png133300964558225747 0
 104C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\img\create-img.png133300964559722347 0
@@ -4297,10 +4296,10 @@
 117C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\download-icon.3ffdb4e8.gif133300966710052929 0
 107C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\form.dc61df93.js133300966711884318 0
 111C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\form.dc61df93.js.map133300966711934730 0
-100C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\form.html133300966711089421 0
-108C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.37b1ca23.js133300966711884318 0
-112C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.37b1ca23.js.map133300966711934730 0
+100C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\form.html133301742315408301 0
+108C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.37b1ca23.js133301742315763026 0
+112C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.37b1ca23.js.map133301742315828508 0
 109C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.47ca9330.css133300966711089421 0
-101C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.html133300966712049846 0
+101C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\index.html133301742316150050 0
 108C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\logo.b82d6c7c.png133300966711302770 0
 116C:\Users\ADMIN\OneDrive\Рабочий стол\Netflix-Clone-Graduation-project-main\dist\netflix-icon.c91caeea.ico133300966709972936 0
